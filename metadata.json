@@ -1,0 +1,6 @@
+{
+  "name": "SprintX Footwear",
+  "description": "Discover premium performance and lifestyle footwear designed for comfort and style, including running, training, walking, and casual shoes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
