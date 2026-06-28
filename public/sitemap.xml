@@ -6,37 +6,37 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://sprintx06.netlify.app/</loc>
+    <loc> https://dummy-sage-nine.vercel.app/</loc>
     <lastmod>2026-06-24T08:05:40+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://sprintx06.netlify.app/products</loc>
+    <loc> https://dummy-sage-nine.vercel.app/</loc>
     <lastmod>2026-06-24T08:05:40+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://sprintx06.netlify.app/about</loc>
+    <loc> https://dummy-sage-nine.vercel.app/</loc>
     <lastmod>2026-06-24T08:05:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://sprintx06.netlify.app/blog</loc>
+    <loc> https://dummy-sage-nine.vercel.app/</loc>
     <lastmod>2026-06-24T08:05:40+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://sprintx06.netlify.app/contact</loc>
+    <loc> https://dummy-sage-nine.vercel.app/</loc>
     <lastmod>2026-06-24T08:05:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.60</priority>
   </url>
   <url>
-    <loc>https://sprintx06.netlify.app/sitemap</loc>
+    <loc> https://dummy-sage-nine.vercel.app/sitemap</loc>
     <lastmod>2026-06-24T08:05:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.50</priority>

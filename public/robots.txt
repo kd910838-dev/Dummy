@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://sprintx06.netlify.app/sitemap.xml
+Sitemap: https://dummy-sage-nine.vercel.app/
